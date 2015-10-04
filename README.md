@@ -1,9 +1,9 @@
 # struts1OAuth
 Project Struts1 with integration Facebook OAuth
-\n
+<br>
 Project created with:
-\n\n
-Java\n
-Struts 1\n
-Json\n
+<br><br>
+Java<br>
+Struts 1<br>
+Json<br>
 Jboss 4.2
