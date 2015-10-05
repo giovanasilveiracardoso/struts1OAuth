@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 
-import org.codehaus.jettison.json.JSONObject;
+import org.json.JSONObject;
 
 import br.com.struts.model.UsuarioFacebook;
 
